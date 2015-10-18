@@ -1,1 +1,2 @@
 # Avoid_Conflicts_Installing_Edx_SparkVM
+# Statistical_IPython_NoteBooks
