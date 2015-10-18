@@ -8,7 +8,9 @@ Note: Do not install the latest version of VirtualBox because the VirtualBox pro
 3. Unzip <a href="https://github.com/spark-mooc/mooc-setup">MOOC Spark-setup zipFile</a>
 4. Create your vagrant file and inside it copy the the Vagrantfile 
 5. Change the settings of the Vagrant file because it tries to connect to an outdated box version 
- master.vm.box = "sparkmooc/base2" --> master.vm.box = "sparkmooc/base2"
+
+master.vm.box = "sparkmooc/base2" --> master.vm.box = "sparkmooc/base2"
+
 I made this change after wasting some hours to setup the VM and there is nowhere a reference about it.
 6. Type the command vagrant up and the sparkvm after some minutes is setup
 7. Then world is yours....
