@@ -13,4 +13,4 @@ master.vm.box = "sparkmooc/base2" --> master.vm.box = "sparkmooc/base2"
 
 I made this change after wasting some hours to setup the VM and there is nowhere a reference about it.                   
 6. Type the command vagrant up and the sparkvm after some minutes is setup                                              
-7. Then world is yours....
+7. Then the world is yours....SparkVM under JupyterNotebook is done!!!
