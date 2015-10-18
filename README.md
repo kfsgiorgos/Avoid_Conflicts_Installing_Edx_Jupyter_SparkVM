@@ -5,4 +5,5 @@ Following the instructions to setup a VM for the classes <a href="https://www.ed
 1. Download <a href="https://www.vagrantup.com/downloads.html">Vagrant</a> 
 2. Download <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>  
 Note: Do not install the latest version of VirtualBox because the VirtualBox provider is compatible with VirtualBox versions 4.0.x, 4.1.x, 4.2.x, 4.3.x, and 5.0.x
-3. Unzip <a href="https://github.com/spark-mooc/mooc-setup">MOOC setup </a>
+3. Unzip <a href="https://github.com/spark-mooc/mooc-setup">MOOC Spark-setup zipFile</a>
+4. 
