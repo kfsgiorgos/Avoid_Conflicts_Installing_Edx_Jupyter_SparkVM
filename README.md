@@ -2,6 +2,6 @@
 
 Following the instructions to setup a VM for the classes <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">Introduction-Big-Data-Apache-Spark</a> & <a href="https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x">Scalable-Machine-Learning</a> 
 
-1. Download <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>  
-2. Download <a href="https://www.vagrantup.com/downloads.html">Vagrant</a>  
+1. Download <a href="https://www.vagrantup.com/downloads.html">Vagrant</a> 
+2. Download <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>  
 3. 
